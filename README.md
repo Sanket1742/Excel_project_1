@@ -12,6 +12,6 @@ Microsoft Excel
 Pivot Tables
 Pivot Charts
 Slicers
-Conditional Formatting
+Conditional Formatting 
 
 This project helped me improve my data visualization and dashboard designing skills while creating a clean and interactive reporting system.
