@@ -11,7 +11,7 @@ Region-wise Dashboard Insights
 Microsoft Excel 
 Pivot Tables
 Pivot Charts
-Slicers
+Slicers 
 Conditional Formatting 
 
 This project helped me improve my data visualization and dashboard designing skills while creating a clean and interactive reporting system.
